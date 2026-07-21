@@ -1,0 +1,15 @@
+{
+	"name": "adfbankbankdomain",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "536ea319-2a5e-4ca1-a60d-f4391c9c4804",
+		"tenantId": "4afc4b04-9258-486d-8f2f-1698f233ab45"
+	}
+}
